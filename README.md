@@ -105,11 +105,11 @@ I also have hands-on experience developing web and Android applications using **
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=isiri22&show_icons=true&theme=tokyonight&hide_border=true" alt="Isiri GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=isiri22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" alt="Isiri GitHub Stats" />
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isiri22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isiri22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" alt="Top Languages" />
 
 </div>
 
