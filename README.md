@@ -1,138 +1,140 @@
+<div align="center">
+
 # Hi, I'm Isiri De Silva 👋
 
-### UI/UX Design & QA Intern | Software Engineering Undergraduate
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=UI%2FUX+Design+%26+QA+Intern;Software+Engineering+Undergraduate;Figma+%7C+QA+Testing+%7C+Web+Development;Passionate+about+User-Friendly+Digital+Products" alt="Typing SVG" />
 
-I am a Software Engineering undergraduate at **SLIIT City University, Sri Lanka**, currently pursuing a **BSc (Hons) in Software Engineering** and having completed the second year of study.
+</div>
 
-I’m focused on **UI/UX Design** and **Quality Assurance**, with interest in creating user-friendly, clean, and high-quality digital products. I have hands-on experience in user research, wireframing, prototyping, manual testing, test documentation, and basic Selenium automation.
+---
 
-I also have experience developing web and Android applications using **HTML, CSS, JavaScript, PHP, Java, MySQL, SQLite, and Android Studio**.
+## 👩‍💻 About Me
+
+I am a **Software Engineering undergraduate** at **SLIIT City University, Sri Lanka**, currently pursuing a **BSc (Hons) in Software Engineering**.
+
+I am focused on **UI/UX Design** and **Quality Assurance**, with skills in user research, wireframing, prototyping, manual testing, bug reporting, and basic Selenium automation.
+
+I also have hands-on experience developing web and Android applications using **HTML, CSS, JavaScript, PHP, Java, MySQL, SQLite, and Android Studio**.
 
 ---
 
 ## 🎯 Career Focus
 
-- UI/UX Design Internship
-- QA Internship
-- Web Application Testing
-- Mobile Application Design & Testing
-- User-centered Digital Products
+<div align="center">
+
+![UI UX Design](https://img.shields.io/badge/UI%2FUX%20Design-0A66C2?style=for-the-badge&logo=figma&logoColor=white)
+![QA Testing](https://img.shields.io/badge/QA%20Testing-2E8B57?style=for-the-badge&logo=selenium&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-111827?style=for-the-badge&logo=github&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web%20Development-F97316?style=for-the-badge&logo=javascript&logoColor=white)
+
+</div>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Tools
 
-### UI/UX Design
-- User Research
-- Wireframing
-- Interactive Prototyping
-- Usability Testing
-- Figma
-- Adobe XD
+<div align="center">
 
-### Quality Assurance
-- Manual Software Testing
-- Bug Reporting
-- Defect Documentation
-- Web Application Testing
-- Basic Selenium Automation Testing
+### Design Tools  
+<img src="https://skillicons.dev/icons?i=figma,xd" />
 
-### Development
-- HTML & CSS
-- JavaScript
-- PHP
-- SQL
-- Java
-- Android Studio
-- MySQL
-- SQLite
+### Development  
+<img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,sqlite,androidstudio" />
 
----
+### QA & Other Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
-## 🎓 Education
-
-**Bachelor of Science (Honours) in Software Engineering**  
-SLIIT City University, Sri Lanka  
-2023 - Present  
-
-Completed the second year of the degree programme.  
-Relevant focus areas include software engineering, web development, mobile application development, UI/UX design, testing, and quality assurance.
-
-**Certificate Course: Introduction to Artificial Intelligence**  
-SLIIT City University, Sri Lanka  
-Currently following
+</div>
 
 ---
 
 ## 💻 Project Experience
 
-### SLIIT City University Moodle UI/UX Redesign
+### 🎨 SLIIT City University Moodle UI/UX Redesign  
 **Role:** UI/UX Designer  
-**Year:** 2025  
 **Tools:** Figma, Adobe XD  
 
-- Conducted user research to understand student needs and challenges in the Moodle learning platform.
-- Created user-focused design ideas to improve the student learning experience.
+- Conducted user research to understand student needs and challenges.
+- Created user-focused design ideas to improve the Moodle learning experience.
 
 ---
 
-### Birthday Reminder App
+### 📱 Birthday Reminder App  
 **Role:** Android Developer and QA Tester  
-**Year:** 2025  
 **Technologies:** Java, Android Studio, SQLite  
 
-- Gathered functional requirements for an Android birthday reminder application.
-- Designed mobile screens for entering, updating, and viewing birthday records.
-- Developed the application using Java and Android Studio.
-- Implemented SQLite database functionality to store birthday details securely.
+- Designed mobile screens for adding, updating, and viewing birthday records.
+- Developed the app using Java and Android Studio.
+- Used SQLite to store birthday details securely.
 
 ---
 
-### RB Stores Responsive Web Store
+### 🛒 RB Stores Responsive Web Store  
 **Role:** Web Developer and QA Tester  
-**Year:** 2025  
 **Technologies:** Bootstrap, JavaScript, PHP  
 
 - Developed a responsive web store with organized product pages.
-- Created user-friendly layouts using Bootstrap for desktop and mobile compatibility.
-- Used JavaScript for interactive website features.
-- Used PHP to support dynamic web page functionality.
+- Created user-friendly layouts for desktop and mobile.
+- Used JavaScript and PHP for interactive and dynamic features.
 
 ---
 
-### Uthkarsha Clothing Store E-Commerce Web Application
+### 👗 Uthkarsha Clothing Store E-Commerce Web Application  
 **Role:** Web Developer and QA Tester  
-**Year:** 2024  
 **Technologies:** HTML, CSS, PHP, MySQL  
 
-- Designed and developed an online clothing store application.
-- Created product catalogue pages to display clothing items clearly.
-- Developed user-friendly page layouts using HTML and CSS.
-- Used PHP and MySQL to support web application functionality.
+- Designed and developed an online clothing store.
+- Created structured product catalogue pages.
+- Used PHP and MySQL for web application functionality.
 
 ---
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence fundamentals
-- UI/UX design improvement
-- QA testing practices
-- Web and mobile application development
+<div align="center">
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-Learning-blueviolet?style=for-the-badge)
+![UIUX](https://img.shields.io/badge/UI%2FUX-Improving-orange?style=for-the-badge)
+![QA](https://img.shields.io/badge/QA%20Testing-Practicing-green?style=for-the-badge)
+
+</div>
 
 ---
 
-## 💪 Strengths
+## 📊 GitHub Stats
 
-- Strong interest in UI/UX design and usability improvement
-- Good understanding of manual testing and basic automation testing
-- Fast learner with interest in new tools and technologies
-- Comfortable working on web, mobile, and interface design projects
-- Detail-oriented approach to identifying usability issues and software defects
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=isiri22&show_icons=true&theme=tokyonight" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isiri22&layout=compact&theme=tokyonight" height="160" />
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-- GitHub: [github.com/isiri22](https://github.com/isiri22)
-- LinkedIn: [Isiri De Silva](https://www.linkedin.com/in/isiri-de-silva-303198337)
-- Email: isiriuthkarsha2@gmail.com
+<div align="center">
+
+<a href="https://github.com/isiri22">
+  <img src="https://img.shields.io/badge/GitHub-isiri22-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/isiri-de-silva-303198337">
+  <img src="https://img.shields.io/badge/LinkedIn-Isiri%20De%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:isiriuthkarsha2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ “Designing user-friendly digital products with quality and detail.” ✨
+
+</div>
