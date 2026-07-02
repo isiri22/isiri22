@@ -101,15 +101,21 @@ I also have hands-on experience developing web and Android applications using **
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=isiri22&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" alt="Isiri GitHub Stats" />
+<img src="https://img.shields.io/badge/Public%20Repositories-5-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20QA-2E8B57?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 
-<br><br>
+</div>## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isiri22&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=2" alt="Top Languages" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Public%20Repositories-5-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-UI%2FUX%20%26%20QA-2E8B57?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Learning-Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
 
 </div>
 
